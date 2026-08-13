@@ -19,9 +19,14 @@ redirect_from:
 
 <div style="font-family: 'Times New Roman', Times, serif;" markdown="1">
 
-# Education
+<h1 style="color: rgb(31, 78, 121); font-family: 'Times New Roman', Times, serif;">
+  Education
+</h1>
 
-### Peking University  
+<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+  Peking University
+</h3>
+  
 **Ph.D. Student in Signal Processing**, *Starting Fall 2027*
 
 School of Electronics · Institute of Information and Communication Technology  
