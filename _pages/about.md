@@ -52,7 +52,7 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
   <span style="color: rgba(0, 0, 0, 0.5);">
     <em>  
       College of Electronic Science and Engineering<br>
-      GPA: **3.97 / 4.00**
+      GPA: 3.97 / 4.00
     </em>
   </span>
 </p>
