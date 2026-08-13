@@ -107,3 +107,15 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+/* Use Times New Roman throughout the main content */
+.page__content,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  font-family: "Times New Roman", Times, serif !important;
+}
