@@ -23,20 +23,21 @@ redirect_from:
 
 ### Peking University  
 **Ph.D. Student in Signal Processing**, *Starting Fall 2027*
+
 School of Electronics · Institute of Information and Communication Technology  
 
-Research Interests: **AI4Communications**, **Machine Learning**, "Computer Vision"  
+Research Interests: **AI4Communications**, **Machine Learning**, **Computer Vision**
+
 Advisor: **Prof. Lingyang Song**
 
 ---
 
 ### Jilin University  
 **B.Eng. in Electronic Information Engineering**, 2023 – Present  
+
 College of Electronic Science and Engineering  
 
 GPA: **3.97 / 4.00**
-
-
 
 # Honors and Awards
 
