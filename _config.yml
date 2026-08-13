@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haotong Cheng"
   avatar           : "images/程浩桐.jpg"
-  bio              : "PhD Student of PKU University, School of Electronics"
+  bio              : "PhD Student at the School of Electronics, Peking University"
   location         : "China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/CHT05017/"
+  github           : "CHT05017"
   google_plus      :
   keybase          :
   instagram        :
