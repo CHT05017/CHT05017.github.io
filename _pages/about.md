@@ -37,16 +37,27 @@ Advisor: **Prof. Lingyang Song**
 
 ---
 
-### Jilin University  
+<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+  Jilin University
+</h3>
+
 **B.Eng. in Electronic Information Engineering**, 2023 – Present  
 
 College of Electronic Science and Engineering  
 
 GPA: **3.97 / 4.00**
 
-# Honors and Awards
-**Huawei Scholarship**, Jilin University  
-  *May 2026 · One of two recipients in the Division of Information Science*
+<h1 style="color: rgb(31, 78, 121); font-family: 'Times New Roman', Times, serif;">
+   Honors and Awards
+</h1>
+
+<p>
+  **Huawei Scholarship**, Jilin University<br>
+  <span style="color: rgba(0, 0, 0, 0.55)"; fontsize: 0.9em>
+    *May 2026 · One of two recipients in the Division of Information Science*
+  </span>
+</p>
+
   
 **“Building Dreams through High-Level Competitions” Scholarship**, Jilin University  
   *April 2026 · One of 18 recipients university-wide*
