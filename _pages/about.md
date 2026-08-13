@@ -29,11 +29,16 @@ redirect_from:
   
 **Ph.D. Student in Signal Processing**, *Starting Fall 2027*
 
-School of Electronics · Institute of Information and Communication Technology  
-
 Research Interests: **AI4Communications**, **Machine Learning**, **Computer Vision**
 
-Advisor: **Prof. Lingyang Song**
+<p>
+  <span style="color: rgba(0, 0, 0, 0.5);">
+    <em>
+      School of Electronics · Institute of Information and Communication Technology<br>  
+      Advisor: <strong>Prof. Lingyang Song</strong>
+    </em>
+  </span>
+</p>
 
 ---
 
@@ -43,9 +48,14 @@ Advisor: **Prof. Lingyang Song**
 
 **B.Eng. in Electronic Information Engineering**, 2023 – Present  
 
-College of Electronic Science and Engineering  
-
-GPA: **3.97 / 4.00**
+<p>
+  <span style="color: rgba(0, 0, 0, 0.5);">
+    <em>  
+      College of Electronic Science and Engineering<br>
+      GPA: **3.97 / 4.00**
+    </em>
+  </span>
+</p>
 
 <h1 style="color: rgb(31, 78, 121); font-family: 'Times New Roman', Times, serif;">
    Honors and Awards
@@ -53,7 +63,7 @@ GPA: **3.97 / 4.00**
 
 <p>
   <strong>Huawei Scholarship</strong>, Jilin University<br>
-  <span style="color: rgba(0, 0, 0, 0.55); fontsize: 0.9em;">
+  <span style="color: rgba(0, 0, 0, 0.5);">
     <em>May 2026 · One of two recipients in the Division of Information Science</em>
   </span>
 </p>
