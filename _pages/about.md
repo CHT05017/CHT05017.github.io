@@ -17,6 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div style="font-family: 'Times New Roman', Times, serif;" markdown="1">
+
 # Education
 
-# 
+# Publications 
+
+
+</div>
