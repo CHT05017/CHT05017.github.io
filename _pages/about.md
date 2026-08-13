@@ -52,9 +52,9 @@ GPA: **3.97 / 4.00**
 </h1>
 
 <p>
-  **Huawei Scholarship**, Jilin University<br>
-  <span style="color: rgba(0, 0, 0, 0.55)"; fontsize: 0.9em>
-    *May 2026 · One of two recipients in the Division of Information Science*
+  <strong>Huawei Scholarship</strong>, Jilin University<br>
+  <span style="color: rgba(0, 0, 0, 0.55); fontsize: 0.9em;">
+    <em>May 2026 · One of two recipients in the Division of Information Science</em>
   </span>
 </p>
 
