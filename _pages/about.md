@@ -21,7 +21,14 @@ redirect_from:
 
 # Education
 
-# Publications 
+
+# Awards
+
+
+# Publications and Research Experiences 
+
+# Research Interests
+
 
 
 </div>
