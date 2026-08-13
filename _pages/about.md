@@ -40,26 +40,34 @@ College of Electronic Science and Engineering
 GPA: **3.97 / 4.00**
 
 # Honors and Awards
-
-- **Huawei Scholarship**, Jilin University  
+**Huawei Scholarship**, Jilin University  
   *May 2026 · One of two recipients in the Division of Information Science*
-- **“Building Dreams through High-Level Competitions” Scholarship**, Jilin University  
+  
+**“Building Dreams through High-Level Competitions” Scholarship**, Jilin University  
   *April 2026 · One of 18 recipients university-wide*
-- **National Scholarship**, Ministry of Education of China  
+  
+**National Scholarship**, Ministry of Education of China  
   *September 2025 · Academic Year 2024–2025*
-- **Finalist Award**, Mathematical Contest in Modeling (MCM)  
+  
+**Finalist Award**, Mathematical Contest in Modeling (MCM)  
   *May 2025 · Team Leader · Top 2.3% worldwide*
-- **National Undergraduate Innovation and Entrepreneurship Training Program**  
+
+**National Undergraduate Innovation and Entrepreneurship Training Program**  
   *April 2025 · Project Leader · Successfully completed with national-level recognition*
-- **Quanyangquan Scholarship**, Jilin University  
+
+**Quanyangquan Scholarship**, Jilin University  
   *March 2025 · Sole recipient from the College of Electronic Science and Engineering*
-- **Dongrong Scholarship**, Jilin University  
+
+**Dongrong Scholarship**, Jilin University  
   *November 2024 · Sole recipient among the college’s 2023 cohort*
-- **Top Ten Students of the Academic Year**, College of Electronic Science and Engineering, Jilin University  
+
+**Top Ten Students of the Academic Year**, College of Electronic Science and Engineering, Jilin University  
   *November 2024 · Sole recipient from the 2023 cohort*
-- **National Scholarship**, Ministry of Education of China  
+
+**National Scholarship**, Ministry of Education of China  
   *September 2024 · Academic Year 2023–2024*
-- **Grand Prize**, National English Competition for College Students  
+
+**Grand Prize**, National English Competition for College Students  
   *August 2024 · National Finals · 5th nationwide and 1st in Jilin Province*
 
 
