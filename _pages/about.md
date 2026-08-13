@@ -17,4 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Haotong
+# Education
+
+# 
