@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Haotong Cheng"
 description              : "Haotong's homepage."
-repository               : "CHT0517/Haotong.github.io"
+repository               : "CHT05017/Haotong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/CHT0517/"
+  github           : "https://github.com/CHT05017/"
   google_plus      :
   keybase          :
   instagram        :
