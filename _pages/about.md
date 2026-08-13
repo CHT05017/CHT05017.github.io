@@ -61,19 +61,11 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
    Honors and Awards
 </h1>
 
-<p>
-  <strong>Huawei Scholarship</strong>, Jilin University<br>
-  <span style="color: rgba(0, 0, 0, 0.5);">
-    <em>May 2026 · One of two recipients in the Division of Information Science</em>
-  </span>
-</p>
-
+*May 2026* **Huawei Scholarship (华为奖学金)**, Jilin University
   
-**“Building Dreams through High-Level Competitions” Scholarship**, Jilin University  
-  *April 2026 · One of 18 recipients university-wide*
+*April 2026*, **High-Level Competitions Scholarship (高水平竞赛奖学金)**, Jilin University  
   
-**National Scholarship**, Ministry of Education of China  
-  *September 2025 · Academic Year 2024–2025*
+*September 2025* **National Scholarship (国家奖学金)**, Ministry of Education of China  
   
 **Finalist Award**, Mathematical Contest in Modeling (MCM)  
   *May 2025 · Team Leader · Top 2.3% worldwide*
