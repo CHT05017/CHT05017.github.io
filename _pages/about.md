@@ -96,21 +96,23 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 <em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.1</em>
 
 **Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**<br>
-<em style="color: rgb(166, 45, 45);"><strong>IET Image Processing (Journal Article), Co-First Author</strong></em><br>
-<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.1</em>
+<em style="color: rgb(166, 45, 45);"><strong>IET Image Processing (Journal Article), First Author</strong></em><br>
+<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2025.3, Accepted on 2025.9</em>
 
 
 <h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Manuscripts Under Review
 </h2>
 
-*2026.5*, <strong>NeurIPS 2026</strong>, Co-first Author<br>
-HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large-Scale Person Re-Identification
+**HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large-Scale Person Re-Identification**<br>
+<em style="color: rgb(166, 45, 45);"><strong>NeurIPS 2026 (Conference Paper), Co-First Author</strong></em><br>
+<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.5</em>
+
 
 <h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Internship Experiences
 </h2>
 
-*2025.5-2026.6* Wangxuan Institute of Computer Technology, Peking University.
+*2025.5-2026.6* Research intern at Wangxuan Institute of Computer Technology, Peking University.
 
 </div>
