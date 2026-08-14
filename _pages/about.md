@@ -23,9 +23,9 @@ redirect_from:
   Education
 </h1>
 
-<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+<h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Peking University
-</h3>
+</h2>
   
 **Ph.D. Student in Signal Processing**, *Starting Fall 2027*
 
@@ -41,9 +41,9 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 
 ---
 
-<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+<h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Jilin University
-</h3>
+</h2>
 
 **B.Eng. in Electronic Information Engineering**, 2023 – Present  
 
@@ -83,9 +83,9 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
   Research Experiences
 </h1>
 
-<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+<h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Published Articles
-</h3>
+</h2>
 
 *2026.2*, <span style="color: rgb(166, 45, 45);"><strong>CVPR 2026 (Conference Paper)</strong></span>, Co-first Author<br>
 Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification
@@ -96,16 +96,16 @@ Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Re
 *2025.9*, <span style="color: rgb(166, 45, 45);"><strong>IET Image Processing (Journal Article)</strong></span>, First Author<br>
 Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks
 
-<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+<h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Manuscripts Under Review
-</h3>
+</h2>
 
 *2026.5*, <span style="color: rgb(166, 45, 45);"><strong>NeurIPS 2026</strong></span>, Co-first Author<br>
 HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large-Scale Person Re-Identification
 
-<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+<h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Internship Experiences
-</h3>
+</h2>
 
 *2025.5-2026.6* Wangxuan Institute of Computer Technology, Peking University.
 
