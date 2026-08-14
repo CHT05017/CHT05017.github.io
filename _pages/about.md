@@ -79,139 +79,34 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 
 *2024.8*, **Grand Prize in NECCS Finals (全国大学生英语竞赛, 总决赛特等奖)**, FLTRP (外研社)
 
-<style>
-  #research-experience {
-    font-family: "Times New Roman", Times, serif;
-  }
+<h1 style="color: rgb(31, 78, 121); font-family: 'Times New Roman', Times, serif;">
+  Research Experiences
+</h1>
 
-  .research-category {
-    margin: 1.35rem 0 0.8rem;
-    color: rgb(166, 45, 45);
-  }
+<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+  Published Articles
+</h3>
 
-  .research-entry {
-    margin: 0 0 1.15rem;
-  }
+*2026.2*, <span style="color: rgb(166, 45, 45);"><strong>CVPR 2026 (Conference Paper)</strong></span>, Co-first Author<br>
+Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification
 
-  .research-meta {
-    margin: 0 0 0.3rem;
-    color: rgba(0, 0, 0, 0.56);
-  }
+*2026.1*, <span style="color: rgb(166, 45, 45);"><strong>arXiv 2026 (Preprint)</strong></span>, Co-first Author<br>
+Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution
 
-  .research-date {
-    font-style: italic;
-  }
+*2025.9*, <span style="color: rgb(166, 45, 45);"><strong>IET Image Processing (Journal Article)</strong></span>, First Author<br>
+Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks
 
-  .research-venue {
-    color: rgb(166, 45, 45);
-    font-weight: 700;
-  }
+<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+  Manuscripts Under Review
+</h3>
 
-  .research-status::before {
-    content: "·";
-    margin: 0 0.45rem;
-    color: rgba(0, 0, 0, 0.35);
-  }
+*2026.5*, <span style="color: rgb(166, 45, 45);"><strong>NeurIPS 2026</strong></span>, Co-first Author<br>
+HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large-Scale Person Re-Identification
 
-  .research-title {
-    margin: 0 0 0.25rem;
-    color: #444;
-    font-weight: 700;
-    line-height: 1.45;
-  }
+<h3 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+  Internship Experiences
+</h3>
 
-  .research-authorship {
-    margin: 0;
-    color: rgba(0, 0, 0, 0.5);
-    font-style: italic;
-  }
-</style>
-
-<section id="research-experience">
-
-  <h1 style="color: rgb(31, 78, 121);">
-    Research Experience
-  </h1>
-
-  <h3 class="research-category">Manuscripts Under Review</h3>
-
-  <div class="research-entry">
-    <p class="research-meta">
-      <span class="research-date">2026.5</span>,
-      <span class="research-venue">NeurIPS 2026</span>
-      <span class="research-status">Under Review</span>
-    </p>
-
-    <p class="research-title">
-      HypMoE-ReID: Hyperspherical Mixture-of-Experts for
-      Large-Scale Person Re-Identification
-    </p>
-
-    <p class="research-authorship">Co-first Author</p>
-  </div>
-
-  <h3 class="research-category">Published Articles</h3>
-
-  <div class="research-entry">
-    <p class="research-meta">
-      <span class="research-date">2026.2</span>,
-      <span class="research-venue">CVPR 2026</span>
-      <span class="research-status">Published</span>
-    </p>
-
-    <p class="research-title">
-      Vision-Language Attribute Disentanglement and Reinforcement
-      for Lifelong Person Re-Identification
-    </p>
-
-    <p class="research-authorship">Co-first Author</p>
-  </div>
-
-  <div class="research-entry">
-    <p class="research-meta">
-      <span class="research-date">2026.1</span>,
-      <span class="research-venue">arXiv</span>
-      <span class="research-status">Preprint</span>
-    </p>
-
-    <p class="research-title">
-      Simon-SR: Spatially Adaptive Modulation and Visual Prompt
-      Adaptation for Text-Reinforced Super-Resolution
-    </p>
-
-    <p class="research-authorship">Co-first Author</p>
-  </div>
-
-  <div class="research-entry">
-    <p class="research-meta">
-      <span class="research-date">2025.9</span>,
-      <span class="research-venue">IET Image Processing</span>
-      <span class="research-status">Published</span>
-    </p>
-
-    <p class="research-title">
-      Optimization of Module Transferability in Single Image
-      Super-Resolution: Universality Assessment and Cycle Residual Blocks
-    </p>
-
-    <p class="research-authorship">First Author</p>
-  </div>
-
-  <h3 class="research-category">Research Internship</h3>
-
-  <div class="research-entry">
-    <p class="research-meta">
-      <span class="research-date">2025.6–2026.6</span>,
-      <span class="research-venue">Peking University</span>
-    </p>
-
-    <p class="research-title">
-      Research Intern, Wangxuan Institute of Computer Technology
-    </p>
-  </div>
-
-</section>
-
-
+*2025.5-2026.6* Wangxuan Institute of Computer Technology, Peking University.
 
 </div>
