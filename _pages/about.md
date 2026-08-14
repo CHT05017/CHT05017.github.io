@@ -84,29 +84,24 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 </h1>
 
 <h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
-  Published Articles
-</h2>
-
-**Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification**<br>
-<em style="color: rgb(166, 45, 45);"><strong>CVPR 2026 (Conference Paper), Co-First Author</strong></em><br>
-<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2025.11, Accepted on 2026.2</em>
-
-**Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution**<br>
-<em style="color: rgb(166, 45, 45);"><strong>arXiv 2026 (Preprint), Co-First Author</strong></em><br>
-<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.1</em>
-
-**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**<br>
-<em style="color: rgb(166, 45, 45);"><strong>IET Image Processing (Journal Article), First Author</strong></em><br>
-<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2025.3, Accepted on 2025.9</em>
-
-
-<h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
-  Manuscripts Under Review
+  Articles
 </h2>
 
 **HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large-Scale Person Re-Identification**<br>
-<em style="color: rgb(166, 45, 45);"><strong>NeurIPS 2026 (Conference Paper), Co-First Author</strong></em><br>
-<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.5</em>
+<em style="color: rgb(166, 45, 45);"><strong>NeurIPS 2026, Co-First Author</strong></em><br>
+<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.5. <strong>Under Review as a Conference Paper</strong></em>
+
+**Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification**<br>
+<em style="color: rgb(166, 45, 45);"><strong>CVPR 2026, Co-First Author</strong></em><br>
+<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2025.11, Accepted on 2026.2. <strong>Published as a Conference Paper</strong></em>
+
+**Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution**<br>
+<em style="color: rgb(166, 45, 45);"><strong>arXiv 2026, Co-First Author</strong></em><br>
+<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.1. <strong>Preprint</strong></em>
+
+**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**<br>
+<em style="color: rgb(166, 45, 45);"><strong>IET Image Processing, First Author</strong></em><br>
+<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2025.3, Accepted on 2025.9. <strong>Published as a Journal Article</strong></em>
 
 
 <h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
