@@ -92,7 +92,7 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 <em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2025.11, Accepted on 2026.2</em>
 
 **Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution**<br>
-<em style="color: rgb(166, 45, 45);"><strong>arXiv 2026 Preprint, Co-First Author</strong></em><br>
+<em style="color: rgb(166, 45, 45);"><strong>arXiv 2026 (Preprint), Co-First Author</strong></em><br>
 <em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.1</em>
 
 **Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**<br>
