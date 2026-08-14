@@ -67,26 +67,22 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
   
 *May 2025*, **Finalist Award (Top 2.3%)**, Mathematical Contest in Modeling (美国大学生数学建模竞赛)  
 
-**National Undergraduate Innovation and Entrepreneurship Training Program**  
-  *April 2025 · Project Leader · Successfully completed with national-level recognition*
+*April 2025*, **Undergraduate Innovation Training Program (国家级大学生创新训练计划)--Project Completed**, Jilin University
 
-**Quanyangquan Scholarship**, Jilin University  
-  *March 2025 · Sole recipient from the College of Electronic Science and Engineering*
+*March 2025*, **Quanyangquan Scholarship (泉阳泉奖学金)**, Jilin Quanyangquan Co., Ltd.
 
-**Dongrong Scholarship**, Jilin University  
-  *November 2024 · Sole recipient among the college’s 2023 cohort*
+*November 2024*, **Dongrong Scholarship (东荣奖学金)**, Dongyoung Scholarship Foundation
 
-**Top Ten Students of the Academic Year**, College of Electronic Science and Engineering, Jilin University  
-  *November 2024 · Sole recipient from the 2023 cohort*
+*November 2024*，**Annually Top Ten Students of College of Electronic Science and Engineering (电子学院年度十佳学生)**, Jilin University
 
-**National Scholarship**, Ministry of Education of China  
-  *September 2024 · Academic Year 2023–2024*
+*September 2024*, **National Scholarship (国家奖学金)**, Ministry of Education of China
 
-**Grand Prize**, National English Competition for College Students  
-  *August 2024 · National Finals · 5th nationwide and 1st in Jilin Province*
+*August 2024*, **Grand Prize in NECCS Finals (全国大学生英语竞赛, 总决赛特等奖)**, FLTRP (外研社)
 
+<h1 style="color: rgb(31, 78, 121); font-family: 'Times New Roman', Times, serif;">
+  Publications and Research Experiences 
+</h1>
 
-# Publications and Research Experiences 
 
 
 
