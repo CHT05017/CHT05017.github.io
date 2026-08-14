@@ -34,8 +34,7 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 <p>
   <span style="color: rgba(0, 0, 0, 0.5);">
     <em>
-      School of Electronics · Institute of Information and Communication Technology<br>  
-      Advisor: <strong>Prof. Lingyang Song</strong>
+      School of Electronics<br>  
     </em>
   </span>
 </p>
@@ -52,7 +51,6 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
   <span style="color: rgba(0, 0, 0, 0.5);">
     <em>  
       College of Electronic Science and Engineering<br>
-      GPA: 3.97 / 4.00
     </em>
   </span>
 </p>
@@ -61,14 +59,13 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
    Honors and Awards
 </h1>
 
-*May 2026* **Huawei Scholarship (华为奖学金)**, Jilin University
+*May 2026*, **Huawei Scholarship (华为奖学金)**, Jilin University
   
 *April 2026*, **High-Level Competitions Scholarship (高水平竞赛奖学金)**, Jilin University  
   
-*September 2025* **National Scholarship (国家奖学金)**, Ministry of Education of China  
+*September 2025*, **National Scholarship (国家奖学金)**, Ministry of Education of China  
   
-**Finalist Award**, Mathematical Contest in Modeling (MCM)  
-  *May 2025 · Team Leader · Top 2.3% worldwide*
+*May 2025*, **Finalist Award (Top 2.3%)**, Mathematical Contest in Modeling (美国大学生数学建模竞赛)  
 
 **National Undergraduate Innovation and Entrepreneurship Training Program**  
   *April 2025 · Project Leader · Successfully completed with national-level recognition*
