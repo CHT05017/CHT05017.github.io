@@ -84,77 +84,46 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
     font-family: "Times New Roman", Times, serif;
   }
 
-  .research-group {
-    margin: 1.4rem 0 2rem;
-  }
-
-  .research-group-title {
-    margin: 0 0 0.85rem;
+  .research-category {
+    margin: 1.35rem 0 0.8rem;
     color: rgb(166, 45, 45);
   }
 
-  .research-card {
-    margin-bottom: 1rem;
-    padding: 1rem 1.15rem;
-    background: rgba(31, 78, 121, 0.035);
-    border: 1px solid rgba(31, 78, 121, 0.14);
-    border-left: 4px solid rgb(31, 78, 121);
-    border-radius: 6px;
+  .research-entry {
+    margin: 0 0 1.15rem;
   }
 
   .research-meta {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.45rem 0.75rem;
-    margin-bottom: 0.45rem;
-    color: rgba(0, 0, 0, 0.58);
-    font-size: 0.92rem;
+    margin: 0 0 0.3rem;
+    color: rgba(0, 0, 0, 0.56);
   }
 
-  .venue-badge {
-    padding: 0.12rem 0.5rem;
+  .research-date {
+    font-style: italic;
+  }
+
+  .research-venue {
     color: rgb(166, 45, 45);
-    background: rgba(166, 45, 45, 0.08);
-    border-radius: 999px;
     font-weight: 700;
   }
 
+  .research-status::before {
+    content: "·";
+    margin: 0 0.45rem;
+    color: rgba(0, 0, 0, 0.35);
+  }
+
   .research-title {
-    margin: 0 0 0.45rem;
-    color: #222;
-    font-size: 1.04rem;
+    margin: 0 0 0.25rem;
+    color: #444;
+    font-weight: 700;
     line-height: 1.45;
   }
 
-  .research-role {
-    margin: 0.25rem 0 0.65rem;
-    color: rgba(0, 0, 0, 0.68);
-  }
-
-  .research-topics {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    margin-top: 0.55rem;
-  }
-
-  .topic-tag {
-    padding: 0.15rem 0.55rem;
-    color: rgb(31, 78, 121);
-    background: rgba(31, 78, 121, 0.08);
-    border-radius: 999px;
-    font-size: 0.86rem;
-  }
-
-  .internship-card {
-    border-left-color: rgb(166, 45, 45);
-  }
-
-  @media (max-width: 600px) {
-    .research-card {
-      padding: 0.9rem;
-    }
+  .research-authorship {
+    margin: 0;
+    color: rgba(0, 0, 0, 0.5);
+    font-style: italic;
   }
 </style>
 
@@ -164,138 +133,85 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
     Research Experience
   </h1>
 
-  <div class="research-group">
-    <h3 class="research-group-title">Manuscripts Under Review</h3>
+  <h3 class="research-category">Manuscripts Under Review</h3>
 
-    <article class="research-card">
-      <div class="research-meta">
-        <span>May 2026</span>
-        <span class="venue-badge">NeurIPS 2026</span>
-        <span>Under Review</span>
-      </div>
+  <div class="research-entry">
+    <p class="research-meta">
+      <span class="research-date">2026.5</span>,
+      <span class="research-venue">NeurIPS 2026</span>
+      <span class="research-status">Under Review</span>
+    </p>
 
-      <p class="research-title">
-        <strong>
-          HypMoE-ReID: Hyperspherical Mixture-of-Experts for
-          Large-Scale Person Re-Identification
-        </strong>
-      </p>
+    <p class="research-title">
+      HypMoE-ReID: Hyperspherical Mixture-of-Experts for
+      Large-Scale Person Re-Identification
+    </p>
 
-      <p class="research-role">
-        <strong>Co-first Author</strong> · 共同第一作者
-      </p>
-
-      <div class="research-topics">
-        <span class="topic-tag">Sparse Computing</span>
-        <span class="topic-tag">Mixture-of-Experts</span>
-        <span class="topic-tag">Person Re-Identification</span>
-      </div>
-    </article>
+    <p class="research-authorship">Co-first Author</p>
   </div>
 
-  <div class="research-group">
-    <h3 class="research-group-title">Published Articles</h3>
+  <h3 class="research-category">Published Articles</h3>
 
-    <article class="research-card">
-      <div class="research-meta">
-        <span>February 2026</span>
-        <span class="venue-badge">CVPR 2026</span>
-        <span>Conference Paper</span>
-      </div>
+  <div class="research-entry">
+    <p class="research-meta">
+      <span class="research-date">2026.2</span>,
+      <span class="research-venue">CVPR 2026</span>
+      <span class="research-status">Published</span>
+    </p>
 
-      <p class="research-title">
-        <strong>
-          Vision-Language Attribute Disentanglement and Reinforcement
-          for Lifelong Person Re-Identification
-        </strong>
-      </p>
+    <p class="research-title">
+      Vision-Language Attribute Disentanglement and Reinforcement
+      for Lifelong Person Re-Identification
+    </p>
 
-      <p class="research-role">
-        <strong>Co-first Author</strong> · 共同第一作者
-      </p>
-
-      <div class="research-topics">
-        <span class="topic-tag">Lifelong Learning</span>
-        <span class="topic-tag">Multimodal Learning</span>
-        <span class="topic-tag">Person Re-Identification</span>
-      </div>
-    </article>
-
-    <article class="research-card">
-      <div class="research-meta">
-        <span>January 2026</span>
-        <span class="venue-badge">arXiv 2026</span>
-        <span>Preprint</span>
-      </div>
-
-      <p class="research-title">
-        <strong>
-          Simon-SR: Spatially Adaptive Modulation and Visual Prompt
-          Adaptation for Text-Reinforced Super-Resolution
-        </strong>
-      </p>
-
-      <p class="research-role">
-        <strong>Co-first Author</strong> · 共同第一作者
-      </p>
-
-      <div class="research-topics">
-        <span class="topic-tag">Multimodal Learning</span>
-        <span class="topic-tag">Image Restoration</span>
-        <span class="topic-tag">Super-Resolution</span>
-      </div>
-    </article>
-
-    <article class="research-card">
-      <div class="research-meta">
-        <span>September 2025</span>
-        <span class="venue-badge">IET Image Processing</span>
-        <span>Journal Article</span>
-      </div>
-
-      <p class="research-title">
-        <strong>
-          Optimization of Module Transferability in Single Image
-          Super-Resolution: Universality Assessment and Cycle Residual Blocks
-        </strong>
-      </p>
-
-      <p class="research-role">
-        <strong>First Author</strong> · 第一作者
-      </p>
-
-      <div class="research-topics">
-        <span class="topic-tag">Image Restoration</span>
-        <span class="topic-tag">Super-Resolution</span>
-        <span class="topic-tag">Transferability</span>
-      </div>
-    </article>
+    <p class="research-authorship">Co-first Author</p>
   </div>
 
-  <div class="research-group">
-    <h3 class="research-group-title">Research Internship</h3>
+  <div class="research-entry">
+    <p class="research-meta">
+      <span class="research-date">2026.1</span>,
+      <span class="research-venue">arXiv</span>
+      <span class="research-status">Preprint</span>
+    </p>
 
-    <article class="research-card internship-card">
-      <div class="research-meta">
-        <span>June 2025 &ndash; June 2026</span>
-        <span class="venue-badge">Peking University</span>
-      </div>
+    <p class="research-title">
+      Simon-SR: Spatially Adaptive Modulation and Visual Prompt
+      Adaptation for Text-Reinforced Super-Resolution
+    </p>
 
-      <p class="research-title">
-        <strong>Research Intern</strong><br>
-        Wangxuan Institute of Computer Technology
-      </p>
+    <p class="research-authorship">Co-first Author</p>
+  </div>
 
-      <p class="research-role">
-        北京大学王选计算机研究所 · 科研实习生
-      </p>
+  <div class="research-entry">
+    <p class="research-meta">
+      <span class="research-date">2025.9</span>,
+      <span class="research-venue">IET Image Processing</span>
+      <span class="research-status">Published</span>
+    </p>
 
-      <div class="research-topics">
-        <span class="topic-tag">High-Level Vision</span>
-        <span class="topic-tag">Learning Theory</span>
-      </div>
-    </article>
+    <p class="research-title">
+      Optimization of Module Transferability in Single Image
+      Super-Resolution: Universality Assessment and Cycle Residual Blocks
+    </p>
+
+    <p class="research-authorship">First Author</p>
+  </div>
+
+  <h3 class="research-category">Research Internship</h3>
+
+  <div class="research-entry">
+    <p class="research-meta">
+      <span class="research-date">2025.6–2026.6</span>,
+      <span class="research-venue">Peking University</span>
+    </p>
+
+    <p class="research-title">
+      Research Intern, Wangxuan Institute of Computer Technology
+    </p>
   </div>
 
 </section>
+
+
+
 </div>
