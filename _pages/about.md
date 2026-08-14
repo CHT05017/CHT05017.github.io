@@ -59,7 +59,7 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
    Honors and Awards
 </h1>
 
-*May 2026*, **Huawei Scholarship (华为奖学金)**, Jilin University
+*May 2026*, **Huawei Scholarship (华为奖学金)**, Huawei Technologies Co., Ltd.
   
 *April 2026*, **High-Level Competitions Scholarship (高水平竞赛奖学金)**, Jilin University  
   
