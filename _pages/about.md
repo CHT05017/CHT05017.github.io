@@ -87,8 +87,10 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
   Published Articles
 </h2>
 
-*2026.2*, <strong>CVPR 2026 (Conference Paper), Co-first Author<br>
-Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification
+**Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification**
+<em style="color: rgb(166, 45, 45);">CVPR 2026 Conference Paper, Co-First Author</em><br>
+<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2025.11, Accepted on 2026.2</em>
+
 
 *2026.1*, <strong>arXiv 2026 (Preprint)</strong>, Co-first Author<br>
 Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution
