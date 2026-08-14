@@ -87,20 +87,20 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
   Published Articles
 </h2>
 
-*2026.2*, <span style="color: rgb(166, 45, 45);"><strong>CVPR 2026 (Conference Paper)</strong></span>, Co-first Author<br>
+*2026.2*, <strong>CVPR 2026 (Conference Paper), Co-first Author<br>
 Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification
 
-*2026.1*, <span style="color: rgb(166, 45, 45);"><strong>arXiv 2026 (Preprint)</strong></span>, Co-first Author<br>
+*2026.1*, <strong>arXiv 2026 (Preprint)</strong>, Co-first Author<br>
 Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution
 
-*2025.9*, <span style="color: rgb(166, 45, 45);"><strong>IET Image Processing (Journal Article)</strong></span>, First Author<br>
+*2025.9*,<strong>IET Image Processing (Journal Article)</strong>, First Author<br>
 Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks
 
 <h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Manuscripts Under Review
 </h2>
 
-*2026.5*, <span style="color: rgb(166, 45, 45);"><strong>NeurIPS 2026</strong></span>, Co-first Author<br>
+*2026.5*, <strong>NeurIPS 2026</strong>, Co-first Author<br>
 HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large-Scale Person Re-Identification
 
 <h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
