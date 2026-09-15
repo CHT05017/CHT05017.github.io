@@ -103,6 +103,13 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 <em style="color: rgb(166, 45, 45);"><strong>IET Image Processing, First Author</strong></em><br>
 <em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2025.3, Accepted on 2025.9. <strong>Published as a Journal Article</strong></em>
 
+<h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
+  Patents
+</h2>
+
+**基于视觉文本属性解耦强化的终身行人重识别方法及系统**<br>
+<em style="color: rgb(166, 45, 45);"><strong>中国发明专利 (申请公布号: CN122435548A)</strong></em><br>
+<em style="color: rgba(0, 0, 0, 0.5);"> 申请公布日: 2026.07.21. <strong>Published as a Journal Article</strong></em>
 
 <h2 style="color: rgb(166, 45, 45); font-family: 'Times New Roman', Times, serif;">
   Internship Experiences
