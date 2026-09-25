@@ -89,7 +89,7 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 
 **HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large-Scale Person Re-Identification**<br>
 <em style="color: rgb(166, 45, 45);"><strong>NeurIPS 2026, Co-First Author</strong></em><br>
-<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.5. <strong>Under Review as a Conference Paper</strong></em>
+<em style="color: rgba(0, 0, 0, 0.5);"> Submitted on 2026.5. Accepted on 2026.9. <strong>Published as a Conference Paper</strong></em>
 
 **Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification**<br>
 <em style="color: rgb(166, 45, 45);"><strong>CVPR 2026, Co-First Author</strong></em><br>
