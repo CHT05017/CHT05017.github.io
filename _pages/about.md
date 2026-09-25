@@ -29,7 +29,7 @@ redirect_from:
   
 **Ph.D. Student in Signal Processing**, 2027 - Present
 
-Research Interests: **AI4Communications**, **Machine Learning**, **Computer Vision**
+Research Interests: **Signal Processing**, **Machine Learning**
 
 <p>
   <span style="color: rgba(0, 0, 0, 0.5);">
@@ -46,6 +46,8 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
 </h2>
 
 **B.Eng. in Electronic Information Engineering**, 2023 – 2027
+
+Research Interests: **Computer Vision**, **Machine Learning**
 
 <p>
   <span style="color: rgba(0, 0, 0, 0.5);">
