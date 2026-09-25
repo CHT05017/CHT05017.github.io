@@ -27,7 +27,7 @@ redirect_from:
   Peking University
 </h2>
   
-**Ph.D. Student in Signal Processing**, *Starting Fall 2027*
+**Ph.D. Student in Signal Processing**, 2027 - Present
 
 Research Interests: **AI4Communications**, **Machine Learning**, **Computer Vision**
 
@@ -45,7 +45,7 @@ Research Interests: **AI4Communications**, **Machine Learning**, **Computer Visi
   Jilin University
 </h2>
 
-**B.Eng. in Electronic Information Engineering**, 2023 – Present  
+**B.Eng. in Electronic Information Engineering**, 2023 – 2027
 
 <p>
   <span style="color: rgba(0, 0, 0, 0.5);">
